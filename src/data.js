@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Instant Pot Ins and Outs",
+            name:"The Instant Pot Episode",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://content.libsyn.com/p/5/8/0/580ab785fa952018/podcast179.mp3?c_id=23131319&cs_id=23131319&response-content-type=audio%2Fmpeg&Expires=1661799641&Signature=DZHt27jwqPGZPp7LcMXpaJsr1CFfX0Raj9BOvvPLn4Qw8k8anKA4Xcowuh2QfrUgBl398VSWwYtJ8nDm5yIKp88d-~8h~94quBCLhtk10e5qd3BOezD-JhfvTK3AVTtIieFcNpnXsOZkFBKiE57eakz0VlNTJX9cigkpUpnM8GY~BWKHA8BWn29riSSqevopGuAJBfnCj45Pxr3jbZWtSp-9XV~X6DgTwn2c5mxGqfMTJ-dkB~Kx-lv7HDddPJa3cxqDTTSwuYdVQtemwN6jpIqi982zobF~DnWR6Z74tJkcTz9-Fo0XFgv9zMbpXLhHO84Xt-1FBtkZ9PDftPJ16w__&Key-Pair-Id=K1YS7LZGUP96OI",
+            audio: "https://stitcher2.acast.com/livestitches/ffedeba51c2c161bc0ff35d17f2ae365.mp3?aid=0b88f20e-3dd6-4efd-aa4e-6ae0667e2ade&chid=65728665-4cff-429d-b336-1e34548b49c0&ci=xkXTvh2BJMJ2UmXv20edofMoXKlmiNSEZcKqdlPhkCrIBw0C3EMLQQ%3D%3D&pf=embed&sv=sphinx%401.114.0&uid=73c5f04a9f500744495b5e317ec513c9&Expires=1661886973638&Key-Pair-Id=K38CTQXUSD0VVB&Signature=kz-WDhvF~eO9TuevoepAOG7yCOI0gKcQLdSf26HhvDwCewSFeX~qAiaRe6VGmTNojjivxDRobtaok5NkFulhbkdnh7wT-cq4rADFUsefNBb39aEBMYCWwyc-NiMz1UUKPPGxuJk1hw9pYU2PCElXN2bF-d-oaTW0aZBU3yR3yr7e1rR9O31usFky8gVoQXF-7KJh-24RlAh45Ro52xMCEFZW~rBt38ewv9op1l-l7LsUkAbn5Rgs-DgpflSQ-BZzaj3qid8IioN0xZl0hcPShDzSfrXp8ax-tqhGUEW9ckl4GoxlrGqUYRIz9pgjJC6XwnE1s6vzkHYy99lLB4mtIg__",
             active: true,       
          },
         {   
@@ -40,12 +40,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Cheesecake bakes in Instant Pot",
+            name:"Instant Pot 101",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "https://cf-hls-media.sndcdn.com/media/159660/0/31762/L3YnjJJ8saUz.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL21lZGlhLzE1OTY2MC8qLyovTDNZbmpKSjhzYVV6LjEyOC5tcDMiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NjE3OTY4Njd9fX1dfQ__&Signature=EN2oeVyWeIM1RR1dixxS2XzCRw9VvcdcLpN21aNNXWcxjgUD2Ivzmjpe3xhb9YCZvy~736DeVS37sLVXn86xyNxQewBloVAFFFyP2zsE66tk7EqSJMl6wBsSkZfL9fYfTlxMoQfThTePoNpWZeBuXdiQvjmK9hdLIixvezalDFipCJK9lQkxMNWIRDqRFaM2V3yXlguadmmdzUjoHx2hpvjk6fsXtjkhqIZJYbd-WUNjCJ3OEdL8t-UJc9Lk4lbcQx5SaCnhlnBCt05mVMB03OHBnFsnvNhdub4QU8k1JEo6Oj~gNMShUYZUDnxiaB8UuME-55ifShFAzlPtj11yRQ__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ",
+            audio: "https://traffic.libsyn.com/secure/plantpoweredpodcast/Instant_Pot_101_Mixdown.mp3?dest-id=801189",
             active: false,
         
         },
