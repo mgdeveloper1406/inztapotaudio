@@ -4,7 +4,7 @@ function chillHop() {
     return [
 
         {
-            name:"The Instant Pot Episode",
+            name:"The Crock Pot Episode",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
@@ -13,7 +13,7 @@ function chillHop() {
             active: true,       
          },
         {   
-            name:"Instant Pot Utilities",
+            name:"Crock Pot Utilities",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
@@ -22,7 +22,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"How to Put a Instant Pot to Work in your Homestead Kitchen",
+            name:"How to Put a Crock Pot to Work in your Homestead Kitchen",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
@@ -31,7 +31,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"In an Instant (Pot) | Bruce Weinstein plus Instant Pot Red Beans and Rice",
+            name:"In an Crock (Pot) | Bruce Weinstein plus Instant Pot Red Beans and Rice",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
@@ -40,7 +40,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Instant Pot 101",
+            name:"Crock Pot 101",
             artist: "Instant Pot Tips",
             cover: "https://m.media-amazon.com/images/I/71WB4VhGY-L._AC_SS450_.jpg",
             id: uuidv4(),
